@@ -16,4 +16,4 @@ tornado==6.4.2
 tqdm==4.67.1
 transformers==4.47.1
 python-dotenv==1.0.1
-
+datasets
